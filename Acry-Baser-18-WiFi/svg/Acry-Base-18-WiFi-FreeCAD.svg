@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="437.58mm" height="177.58mm" viewBox="0 0 437.58 177.58" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="MyLayer" transform="translate(110.290000,132.290000) scale(1,-1)">
+<path id="MyLayer_w0000"  d="M 65.0 41.0 A 41 41 0 0 0 65 -41L -65.0 -41.0 A 41 41 0 0 0 -65 41L 65.0 41.0 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="88.0" cy="-1.07768918325e-14" r="0.85" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-88.0" cy="0.0" r="0.85" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>MyLayer</title>
+</g>
+<g id="MyLayer001" transform="translate(110.290000,132.290000) scale(1,-1)">
+<path id="MyLayer001_w0000"  d="M 282.0 41.0 A 41 41 0 0 0 282 -41L 230.25 -41.0 L 230.25 -5.99999999996 L 279.5 -6.0 A 6 6 0 0 1 279.5 6L 154.5 6.0 A 6 6 0 1 1 154.5 -6L 203.75 -6.0 L 203.75 -41.0 L 152.0 -41.0 A 41 41 0 0 0 152 41L 282.0 41.0 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="305.0" cy="-1.07768918325e-14" r="0.85" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="129.0" cy="0.0" r="0.85" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>MyLayer001</title>
+</g>
+<g id="MyLayer002" transform="translate(110.290000,132.290000) scale(1,-1)">
+<path id="MyLayer002_w0000"  d="M 65.0 128.0 A 41 41 0 0 0 65 46L 13.25 46.0 L 13.25 81.0 L 62.5 81.0 A 6 6 0 0 1 62.5 93L -62.5 93.0 A 6 6 0 1 1 -62.5 81L -13.25 81.0 L -13.25 46.0 L -65.0 46.0 A 41 41 0 0 0 -65 128L 65.0 128.0 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="-88.0" cy="87.0" r="0.85" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="88.0" cy="87.0" r="0.85" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>MyLayer002</title>
+</g>
+<g id="MyLayer003" transform="translate(110.290000,132.290000) scale(1,-1)">
+<path id="MyLayer003_w0000"  d="M 282.0 128.0 A 41 41 0 0 0 282 46L 152.0 46.0 A 41 41 0 0 0 152 128L 282.0 128.0 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="305.0" cy="87.0" r="0.85" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="129.0" cy="87.0" r="0.85" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="MyLayer003_w0003"  d="M 153.5 84.0 L 153.5 90.0 L 280.5 90.0 L 280.5 84.0 L 153.5 84.0 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>MyLayer003</title>
+</g>
+</svg>
